@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\ConsumerAPI.csproj": {}
+    "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\ConsumerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\ConsumerAPI.csproj": {
+    "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\ConsumerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\ConsumerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\ConsumerAPI.csproj",
         "projectName": "ConsumerAPI",
-        "projectPath": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\ConsumerAPI.csproj",
+        "projectPath": "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\ConsumerAPI.csproj",
         "packagesPath": "C:\\Users\\sbpma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\obj\\",
+        "outputPath": "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.19, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

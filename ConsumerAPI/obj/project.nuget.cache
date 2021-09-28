@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WI8Gh89pCri3xxfA6OLBx0PTTSIRwJlaQkc012swS4NHJmk/3b7uZsMMxnfLaaxOy5uiCzxJLai9Vgt4JmaFzw==",
+  "dgSpecHash": "JTPmOmQKCeP0BlRT2fMO8w7cAo3do7thMTnOZSFG2cAl+ya8KOOe00zc4c1574nVo+Qu7/GnU5Y12qp2ne1bew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\ConsumerAPI\\ConsumerAPI.csproj",
+  "projectFilePath": "C:\\Users\\sbpma\\Desktop\\ConsumerMicroservice\\ConsumerAPI\\ConsumerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.19\\microsoft.aspnetcore.authentication.jwtbearer.3.1.19.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
@@ -15,6 +15,7 @@
     "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sbpma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
     "C:\\Users\\sbpma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
